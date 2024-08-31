@@ -1,0 +1,5 @@
+baseURL = 'https://dakotapulm.com/'
+languageCode = 'en-us'
+title = 'Dakota Pulmonary'
+theme = 'arcana'
+copyright = "© Untitled. All rights reserved"
