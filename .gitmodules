@@ -1,3 +1,6 @@
 [submodule "themes/arcana"]
 	path = themes/arcana
 	url = https://github.com/half-duplex/hugo-arcana.git
+[submodule "hugo-arcana"]
+	path = hugo-arcana
+	url = https://github.com/half-duplex/hugo-arcana.git
